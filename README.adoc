@@ -758,7 +758,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | set up (_v_)
 | zsetapować
-| zestawić
+| skonfigurować, zestawić
 
 | settings
 |
