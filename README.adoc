@@ -757,7 +757,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | ustawiać
 
 | set up (_v_)
-| zsetapować
+|
 | skonfigurować, zestawić
 
 | settings
@@ -766,7 +766,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | setup (_n_)
 |
-| konfiguracja
+| konfiguracja, ustawienie
 
 | share (_v_)
 | szerować
