@@ -414,7 +414,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | kill (_v_)
 | killować
-| zamknąć
+| zamknąć, ubić
 
 | label
 |
