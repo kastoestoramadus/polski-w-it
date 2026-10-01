@@ -410,7 +410,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | join (_v_)
 | zjoinować
-| połączyć, scalić, wykonać złączenie
+| połączyć, scalić, złączyć
 
 | kernel
 |
